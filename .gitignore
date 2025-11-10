@@ -3,6 +3,9 @@ obj/
 *.o
 sudoku_solver
 
+# Copilot instructions (keep local only)
+.github/copilot-instructions.md
+
 # OS generated files
 .DS_Store
 .DS_Store?
